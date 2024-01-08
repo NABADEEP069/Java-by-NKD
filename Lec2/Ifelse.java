@@ -1,5 +1,5 @@
 package Lec2;
-
+ 
 public class Ifelse {
     public static void main(String[] args) {
       int age = 30;
